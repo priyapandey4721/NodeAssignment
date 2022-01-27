@@ -1,0 +1,4 @@
+{"name":"samiksha","age":"23","city":"pune","salary":"123"}
+*{"name":"samiksha","age":"23","city":"pune","salary":"123"}*
+{"name":"akansha","age":"12","city":"Pune","salary":"2000002"}*
+{"name":"priya pandey","age":"22","city":"Ulhasnagar","salary":"29000"}*{"name":"Preeti Pandey","age":"26","city":"Noida","salary":"50000"}*{"name":"Komal pandey","age":"22","city":"- Thane","salary":"23456"}
